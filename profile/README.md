@@ -1,4 +1,10 @@
-## Hi there 👋
+## Bienvenido a la organización Paisajes Sonoros 👋
+
+Esta organización se encarga de realizar todas las mejoras en relación a la aplicación SoundscapeApp realizada por Manuel Salcedo Alonso.
+
+• A continuación, se muestra el enlace a la página web: https://paisajessonoros.github.io
+
+• En esta wiki, se muestra todo el desarrollo de la aplicación: https://github.com/SalcedoManuel/Paisajes-Sonoros/wiki
 
 <!--
 
