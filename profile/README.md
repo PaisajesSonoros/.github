@@ -1,18 +1,27 @@
-## Bienvenido a la organización Paisajes Sonoros 👋
+# Welcome to the Soundscape App Organization Page!!👋
 
-Esta organización se encarga de realizar todas las mejoras en relación a la aplicación SoundscapeApp realizada por Manuel Salcedo Alonso.
+Hi,
 
-• A continuación, se muestra el enlace a la página web: https://paisajessonoros.github.io
+Welcome to my GitHub organization called **PaisajesSonoros**. This organization was created to continue the development of my Degree Final Project done in the **Rey Juan Carlos I** University.
 
-• En esta wiki, se muestra todo el desarrollo de la aplicación: https://github.com/SalcedoManuel/Paisajes-Sonoros/wiki
+## Who are we?
 
-<!--
+**SoundscapeApp** was the continuation of a Degree Final Project by [Manuel Salcedo](https://github.com/SalcedoManuel). 
 
-**Here are some ideas to get you started:**
+This Degree was called **Grado en Sistemas Audiovisuales y Multimedia**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What do you find here?
+
+In this GitHub organization you can find:
+
+- **Quiz Web Template**: It's a template to clone the repository.
+- **Soundscape App**: Soundscape App code.
+- **Wiki**: A Wiki with some information regarding this project.
+## Contact
+
+If you have any questions, you can contact me through the GitHub issue.
+
+Thanks for visiting **PaisajesSonoros**!
+
+
+**Soundscape** Team/ El equipo de **PaisajesSonoros**
